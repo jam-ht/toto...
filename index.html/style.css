@@ -226,7 +226,7 @@ section {
     margin-top: auto;
 }
 #about .text p {
-    font-size: 22px;
+    font-size: 16px;
     color: #3f3f3f;
     line-height: 2em;
     margin-bottom: 60px;
@@ -247,7 +247,7 @@ section {
     margin: 0;
 }
 #album .album-text p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.4em;
     letter-spacing: 10px;
     color: #3f3f3f;
