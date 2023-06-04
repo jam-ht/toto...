@@ -346,6 +346,10 @@ footer {
         width: 100vw;
     }
     
+    .content .text p {
+        text-align: center;
+        font-size: 14px;
+    }
     #album .flex {
         flex-wrap: wrap;
         justify-content: center;
