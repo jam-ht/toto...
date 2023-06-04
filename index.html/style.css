@@ -346,9 +346,6 @@ footer {
         width: 100vw;
     }
     
-    .content .text p {
-        text-align: left;
-    }
     #album .flex {
         flex-wrap: wrap;
         justify-content: center;
